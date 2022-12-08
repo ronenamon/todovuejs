@@ -72,7 +72,7 @@ import Form from '../Form';
             }
         },
         mounted() {
-            console.log('Component mounted.');
+            console.log('Component mounted!');
             this.getData();
         },
 
